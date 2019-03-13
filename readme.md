@@ -14,4 +14,4 @@ little experience actually implementing hence it taking slightly longer than I w
 With that being said I imagine that bringing in the XML is a fairly similar principle, in a proper workplace solution i'd like to try and normalise the inputs into one object type to then work with rather than
 having two distinct structures for the same workflow. Granted in an environment where its simply out of my control how many different structures I get fed then thats a whole different problem.
 
-If you have any questions relating to this code feel free to get in touch!
+If you have any questions relating to this code feel free to get in touch via the details on my CV/Resume provided to you!
